@@ -1,3 +1,12 @@
+## [1.1.2](https://github.com/cerico/glendale/compare/v1.1.1...v1.1.2) (2023-02-06)
+
+
+### Bug Fixes
+
+* file2 ([1ff2c92](https://github.com/cerico/glendale/commit/1ff2c9279272f9686600fd57c9b3120a62171430))
+
+
+
 ## [1.1.1](https://github.com/cerico/glendale/compare/v1.1.0...v1.1.1) (2023-02-06)
 
 
