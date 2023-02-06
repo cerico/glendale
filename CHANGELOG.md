@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/cerico/glendale/compare/v1.2.1...v1.3.0) (2023-02-06)
+
+
+### Features
+
+* using gh release ([f1f07b8](https://github.com/cerico/glendale/commit/f1f07b8703ae40acbf96a75ea03820782f8ad002))
+
+
+
 ## [1.2.1](https://github.com/cerico/glendale/compare/v1.2.0...v1.2.1) (2023-02-06)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * specify command ([b03d322](https://github.com/cerico/glendale/commit/b03d32210bfcad66ca69db57dfdbd6af9999fbb8))
-
-
-
-## [1.1.2](https://github.com/cerico/glendale/compare/v1.1.1...v1.1.2) (2023-02-06)
-
-
-### Bug Fixes
-
-* file2 ([1ff2c92](https://github.com/cerico/glendale/commit/1ff2c9279272f9686600fd57c9b3120a62171430))
 
 
 
