@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/cerico/glendale/compare/v1.1.4...v1.2.0) (2023-02-06)
+
+
+### Features
+
+* three commits ([8fbaa7b](https://github.com/cerico/glendale/commit/8fbaa7b69b8ba5bb881b519d4533390347661f15))
+
+
+
 ## [1.1.4](https://github.com/cerico/glendale/compare/v1.1.3...v1.1.4) (2023-02-06)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * file ([39e07f7](https://github.com/cerico/glendale/commit/39e07f7fc30844545cfccccc8da4f79d3fb4723f))
-
-
-
-# [1.1.0](https://github.com/cerico/glendale/compare/0e8b18045f57c36cd899379a93219f8531c3d964...v1.1.0) (2023-02-05)
-
-
-### Features
-
-* starting ([0e8b180](https://github.com/cerico/glendale/commit/0e8b18045f57c36cd899379a93219f8531c3d964))
 
 
 
