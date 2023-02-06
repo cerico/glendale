@@ -1,3 +1,12 @@
+## [1.1.3](https://github.com/cerico/glendale/compare/v1.1.2...v1.1.3) (2023-02-06)
+
+
+### Bug Fixes
+
+* specify command ([b03d322](https://github.com/cerico/glendale/commit/b03d32210bfcad66ca69db57dfdbd6af9999fbb8))
+
+
+
 ## [1.1.2](https://github.com/cerico/glendale/compare/v1.1.1...v1.1.2) (2023-02-06)
 
 
