@@ -1,3 +1,12 @@
+## [1.3.2](https://github.com/cerico/glendale/compare/v1.3.1...v1.3.2) (2023-02-06)
+
+
+### Bug Fixes
+
+* remove char ([9ae8d78](https://github.com/cerico/glendale/commit/9ae8d78ef9751a6819632fb2e3d7e4e0a1e64465))
+
+
+
 ## [1.3.1](https://github.com/cerico/glendale/compare/v1.3.0...v1.3.1) (2023-02-06)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * three commits ([8fbaa7b](https://github.com/cerico/glendale/commit/8fbaa7b69b8ba5bb881b519d4533390347661f15))
-
-
-
-## [1.1.4](https://github.com/cerico/glendale/compare/v1.1.3...v1.1.4) (2023-02-06)
-
-
-### Bug Fixes
-
-* specify token ([c095e47](https://github.com/cerico/glendale/commit/c095e479ad47417d270ff352cf5dac77f113e284))
 
 
 
