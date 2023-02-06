@@ -1,3 +1,12 @@
+## [1.1.4](https://github.com/cerico/glendale/compare/v1.1.3...v1.1.4) (2023-02-06)
+
+
+### Bug Fixes
+
+* specify token ([c095e47](https://github.com/cerico/glendale/commit/c095e479ad47417d270ff352cf5dac77f113e284))
+
+
+
 ## [1.1.3](https://github.com/cerico/glendale/compare/v1.1.2...v1.1.3) (2023-02-06)
 
 
