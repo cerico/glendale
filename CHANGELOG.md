@@ -1,3 +1,12 @@
+## [1.3.1](https://github.com/cerico/glendale/compare/v1.3.0...v1.3.1) (2023-02-06)
+
+
+### Bug Fixes
+
+* go back to orig way ([f1d8d37](https://github.com/cerico/glendale/commit/f1d8d37344c18047ed8ee59317473e0154ded7c1))
+
+
+
 # [1.3.0](https://github.com/cerico/glendale/compare/v1.2.1...v1.3.0) (2023-02-06)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * specify token ([c095e47](https://github.com/cerico/glendale/commit/c095e479ad47417d270ff352cf5dac77f113e284))
-
-
-
-## [1.1.3](https://github.com/cerico/glendale/compare/v1.1.2...v1.1.3) (2023-02-06)
-
-
-### Bug Fixes
-
-* specify command ([b03d322](https://github.com/cerico/glendale/commit/b03d32210bfcad66ca69db57dfdbd6af9999fbb8))
 
 
 
